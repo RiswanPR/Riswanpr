@@ -23,7 +23,7 @@
 ### A little more about me...  
 
 ```javascript
-const RiswanPr = {
+const Riswan PR = {
   name:'Riswan.P.R',
   age:15,
   place:'Kozhikode ,India',
