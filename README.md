@@ -25,8 +25,8 @@
 ```javascript
 const Riswan PR = {
   name:'Riswan.P.R',
-  age:15,
-  place:'Kozhikode ,India',
+  age:16,
+  place:'Ottapalam, Palakkad, India',
   currently:"Exploring Web AI.",
   skills: [Java Script, JQuery, Python, NodeJs, Bootstrap, Express, Html5, Css3, TailwindCss],
   tools: [Mac, Linux, Windows, Vs Code, Jupeter Notebook , GitHub,],
