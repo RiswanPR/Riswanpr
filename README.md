@@ -24,18 +24,19 @@
 
 ```javascript
 const Riswan PR = {
-  name:'Riswan.P.R',
-  age:16,
-  place:'Ottapalam, Palakkad, India',
-  currently:"Exploring Web AI.",
-  skills: [Java Script, JQuery, Python, NodeJs, Bootstrap, Express, Html5, Css3, TailwindCss],
-  tools: [Mac, Linux, Windows, Vs Code, Jupeter Notebook , GitHub,],
-  socialMedia:{
-  protfolio:'https://riswanpr.com',
-  linkedin:'https://www.linkedin.com/in/riswan-p-r-822779223/',
-  instagram:'https://www.instagram.com/_rix_wan_10/',
-  gitHub:'https://github.com/prriswan72',
-  email:'riswanpr94@gmail.com',
+  Aame:'Riswan.P.R',
+  Age:16,
+  Date_Of_Birth:'22-11-2008'
+  Place:'Ottapalam, Palakkad, India',
+  Currently:"Exploring Web AI.",
+  Skills: [Java Script, JQuery, Python, NodeJs, Bootstrap, Express, Html5, Css3, TailwindCss],
+  Tools: [Mac, Linux, Windows, Vs Code, Jupeter Notebook , GitHub,],
+  SocialMedia:{
+  Protfolio:'https://riswanpr.com',
+  Linkedin:'https://www.linkedin.com/in/riswan-p-r-822779223/',
+  Instagram:'https://www.instagram.com/_rix_wan_10/',
+  GitHub:'https://github.com/prriswan72',
+  Gmail:'riswanpr94@gmail.com',
   }
 
 ```
